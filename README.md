@@ -2,9 +2,7 @@
 
 # My Portfolio
 
-![image](https://github.com/user-attachments/assets/8d22e5b3-e892-46e0-8dd3-7c79f10dcd3f)
-
-Welcome to my portfolio! This project showcases my skills, projects, and experience as a software developer.
+Welcome to my portfolio! This project showcases my skills, projects, and experience as a frontend developer.
 
 ## Features
 
